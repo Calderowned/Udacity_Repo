@@ -32,7 +32,7 @@ def get_filters():
         city_input = input("Would you like to see data for Chicago, New York City, or Washington DC? ")
         city = city_input.lower()
         if city not in cities_list:
-            print("Please input a valid city")
+            print("Please input a valid City")
         
     # TO DO: get user input for month (all, january, february, ... , june)
     month_list = ['january','february','march',
