@@ -42,7 +42,7 @@ def get_filters():
         month_input = input("Would you like data from January, February, March, April, May, June, or all? ")
         month = month_input.lower()
         if month not in month_list:
-            print("Please choose a valid month")
+            print("Please choose a valid Month")
             
     # TO DO: get user input for day of week (all, monday, tuesday, ... sunday)
     days_list = ['monday','tuesday','wednesday',
