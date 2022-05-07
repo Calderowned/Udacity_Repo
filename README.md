@@ -8,6 +8,7 @@ Bikeshare
 
 ### Description
 The Bikeshare python script analyzes data from three separate cities in the US
+These cities are: Chicago, Washington DC, and New York City
 
 ### Files used
 bikeshare.py
